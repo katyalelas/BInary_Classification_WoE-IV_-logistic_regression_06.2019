@@ -1,1 +1,1 @@
-# logistic_regression_06.2019
+The project is made on “Students” dataset. It covers exploratory analysis of data, data cleaning, descriptive statistics,   I got two dataset so I did it in two separated documents, additionally I checked my hypothesis about the target variable and presented in another file called “Project DataSet Student Grtades-Ready-target6”.
